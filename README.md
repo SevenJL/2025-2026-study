@@ -1,5 +1,5 @@
 
-* [√] 系统梳理 **Spring 全家桶**：AOP、事务传播、SpringMVC 流程、Bean 生命周期
+* [x] 系统梳理 **Spring 全家桶**：AOP、事务传播、SpringMVC 流程、Bean 生命周期
 * [ ] 复盘之前商业项目：梳理痛点 → 写总结文档（比如性能问题、缓存设计缺陷、SQL优化不足）
 * [ ] 深入学习 MySQL 优化（索引设计、Explain 分析、慢查询优化）
 * [ ] 学习 Redis 高级特性（发布订阅、布隆过滤器、HyperLogLog、分布式锁）
